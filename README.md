@@ -1,4 +1,6 @@
- Hi There!
+
+## Hi There! ## 
+ 
 - 👋 Good day! I’m Goeun Choi 
 - 👀 I’m interested in Data analysis and Deep Learning, Machine Learning
 - 🌱 I’m currently learning python, R
@@ -7,5 +9,7 @@
 - ✿ Visit my blog https://goeun-sw.tistory.com/ ✿
 
 2021 Big Data Education
+
 2021 Public Big Data Youth Internship 
-2022 Year Dream School 2기
+
+2022 YearDream School 2기
