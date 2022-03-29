@@ -12,4 +12,4 @@
  
  2021 Public Big Data Youth Internship 
  
- 2022 YearDream School 2기 
+ 2022 YearDream School 2nd
