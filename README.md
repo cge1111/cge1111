@@ -2,8 +2,7 @@
  - 👋 Good day! I’m Goeun Choi 
  - 👀 I’m interested in Data analysis and Deep Learning, Machine Learning 
  - 🌱 I’m currently tools Python, R  
- - 💞️ I’m looking to collaborate on SW 
- - 📫 How to reach me cge111175@gmail.com 
+ - 📫 How to reach me cge1111@naver.com 
  - ✿ Visit my blog https://goeun-sw.tistory.com/ ✿ 
 
 
