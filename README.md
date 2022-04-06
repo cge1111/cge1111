@@ -1,4 +1,4 @@
-# Hi there!#
+# Hi there!
  - 👋 Good day! I’m Goeun Choi 
  - 👀 I’m interested in Data analysis and Deep Learning, Machine Learning 
  - 🌱 I’m currently tools Python, R  
