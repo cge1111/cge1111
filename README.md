@@ -4,8 +4,7 @@
  - 👩🏻‍💻 I’m currently tools Python, R  
  - 📫 How to reach me cge1111@naver.com 
  - 🐻 Visit my blog https://goeun-sw.tistory.com/ 
-
-
+ - 💼 I'm working on AI at a SmartFactory company. 
 
 # Experience🏫 #
  2021 Big Data Education 
