@@ -1,10 +1,10 @@
 # Hi there! 🙋🏻‍♀️
  - 🍀 Good day! I’m Goeun Choi 
- - 👀 I’m interested in Data analysis and Deep Learning, Machine Learning 
- - 👩🏻‍💻 I’m currently tools Python, R, HTML/CSS/JS 
- - 📫 How to reach me cge1111@naver.com 
+ - 👀 I’m interested in Data analysis and Deep Learning, Machine Learning, Front-End
+ - 👩🏻‍💻 I’m currently Tools Python, R, HTML/CSS/JS, Vue.js
+ - 📫 How to reach me cge1111@naver.com or cge111175@gmail.com
  - 🐻 Visit my blog https://goeun-sw.tistory.com/ 
- - 💼 I'm working on AI at a SmartFactory company. 
+ - 💼 I'm working on AI at a SmartFactory Company. 
 
 # Experience🏫 #
  2021 Big Data Education 
